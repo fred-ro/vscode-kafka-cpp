@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/frouleau/git/fred-ro/librdkafka-tests/vscode-cpp/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/producer.dir/producer.cpp.o -c /Users/frouleau/git/fred-ro/librdkafka-tests/vscode-cpp/producer.cpp",
+  "file": "/Users/frouleau/git/fred-ro/librdkafka-tests/vscode-cpp/producer.cpp"
+}
+]
